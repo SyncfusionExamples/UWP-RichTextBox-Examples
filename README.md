@@ -31,9 +31,9 @@ Resources
 ---------
 
 *   **Product page:** [Syncfusion UWP RichTextBox](https://www.syncfusion.com/uwp-ui-controls/richtextbox?utm_source=github&utm_medium=listing&utm_campaign=github-uwp-rte-examples)
-*   **Documentation:** [Syncfusion WPF RichTextBox](https://help.syncfusion.com/uwp/richtextbox/overview?utm_source=github&utm_medium=listing&utm_campaign=github-uwp-rte-examples )
-*   **Knowledge Base:** [Syncfusion WPF RichTextBox - Knowledge Base](https://support.syncfusion.com/kb/cross-platforms/section/1200?utm_source=github&utm_medium=listing&utm_campaign=github-uwp-rte-examples)
-*   **FAQ:** [Syncfusion WPF RichTextBox - FAQ](https://www.syncfusion.com/faq/?utm_source=github&utm_medium=listing&utm_campaign=github-uwp-rte-examples)
+*   **Documentation:** [Syncfusion UWP RichTextBox](https://help.syncfusion.com/uwp/richtextbox/overview?utm_source=github&utm_medium=listing&utm_campaign=github-uwp-rte-examples )
+*   **Knowledge Base:** [Syncfusion UWP RichTextBox - Knowledge Base](https://support.syncfusion.com/kb/cross-platforms/section/1200?utm_source=github&utm_medium=listing&utm_campaign=github-uwp-rte-examples)
+*   **FAQ:** [Syncfusion UWP RichTextBox - FAQ](https://www.syncfusion.com/faq/?utm_source=github&utm_medium=listing&utm_campaign=github-uwp-rte-examples)
 
 Support and feedback
 --------------------
