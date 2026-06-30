@@ -16,6 +16,10 @@ namespace SfRichTextBoxAdv
         public MainPage()
         {
             this.InitializeComponent();
+
+            //Loads the document into UWP SfRichTextBoxAdv.
+            Stream fileStream = typeof(MainPage).GetTypeInfo().Assembly.GetManifestResourceStream("SfRichTextBoxAdv.Assets.GettingStarted.docx");
+            richTextBoxAdv.Load(fileStream, FormatType.Docx);
         }
         #endregion
     }

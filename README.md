@@ -1,4 +1,4 @@
-Syncfusuion UWP RichTextBox (SfRichTextBoxAdv)
+Syncfusion UWP RichTextBox
 ----------------------------
 
 The Syncfusion [UWP RichTextBox](https://www.syncfusion.com/uwp-ui-controls/richtextbox?utm_source=github&utm_medium=github&utm_campaign=github-uwp-rte-examples) (SfRichTextBoxAdv) control allows you to view, edit and print rich text content including text, images, hyperlink etc. arranged in sections, tables, paragraphs, headers, footers and comments. You can perform all editing operations using keyboard, mouse and touch.
