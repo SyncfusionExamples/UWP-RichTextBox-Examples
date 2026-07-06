@@ -154,7 +154,7 @@
       <Version>6.2.14</Version>
     </PackageReference>
     <PackageReference Include="Syncfusion.SfRichTextBoxAdv.UWP">
-      <Version>33.2.6</Version>
+      <Version>34.1.29</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
